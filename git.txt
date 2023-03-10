@@ -1,5 +1,0 @@
-Git 練習です
-Git 変更
-商品情報表示画面へ
-git add
-git commit
