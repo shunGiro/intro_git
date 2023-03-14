@@ -1,5 +1,6 @@
 package pack;
 
+//コメント追加
 public class SampleArray {
 	public static void main(String[] args) {
 		int[] data1 = new int[2];
