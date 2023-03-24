@@ -6,7 +6,7 @@ public class SampleArray {
 		int[] data1 = new int[2];
 		double[] data2 = new double[3];
 
-		data1[0] = 123;
+		data1[0] = 12345;
 		data1[1] = 34;
 
 		data2[0] = 1.2;
