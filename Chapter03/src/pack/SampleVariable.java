@@ -13,5 +13,7 @@ public class SampleVariable {
 		}else{
 			System.out.println("Negative value");
 		}
+		
+		System.out.println("追加");
 	}
 }

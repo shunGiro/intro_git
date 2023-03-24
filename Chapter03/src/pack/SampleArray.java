@@ -20,5 +20,7 @@ public class SampleArray {
 		for(double d : data2){
 			System.out.println(d);
 		}
+		
+		System.out.println("追加");
 	}
 }
