@@ -24,7 +24,5 @@ public class SampleArray {
 		System.out.println("こんにちは");
 		
 		System.out.println("追加");
-		
-		System.out.println("追加");
 	}
 }
