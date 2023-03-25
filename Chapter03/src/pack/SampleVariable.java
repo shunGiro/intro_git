@@ -19,5 +19,6 @@ public class SampleVariable {
 		System.out.println("こんにちは");
 		
 		System.out.println("追加");
+		System.out.println("追加");
 	}
 }
