@@ -21,5 +21,7 @@ public class SampleVariable {
 		System.out.println("追加");
 		System.out.println("追加");
 		System.out.println("追加");
+		
+		System.out.println("fetch 追加");
 	}
 }
