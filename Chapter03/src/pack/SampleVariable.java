@@ -33,6 +33,8 @@ public class SampleVariable {
 		System.out.println("fetch 追加4");
 		
 		System.out.println("ブランチ作成後");
+		
+		System.out.println("ブランチ2作成後");
 
 	}
 }
