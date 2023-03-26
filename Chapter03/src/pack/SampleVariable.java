@@ -25,10 +25,14 @@ public class SampleVariable {
 		System.out.println("fetch 追加");
 		System.out.println("fetch 追加");
 		
+
+		System.out.println("fetch 追加3");
+		System.out.println("fetch 追加4");
 		
 		System.out.println("fetch 追加3");
 		System.out.println("fetch 追加4");
 		
 		System.out.println("ブランチ作成後");
+
 	}
 }
