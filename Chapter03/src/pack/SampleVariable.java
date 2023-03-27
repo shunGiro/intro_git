@@ -38,8 +38,12 @@ public class SampleVariable {
 		
 		System.out.println("ブランチ3作成後");
 		
+
 		
 		System.out.println("ブランチ２での作業");
+
+		System.out.println("master1");
+		System.out.println("master2");
 
 	}
 }
