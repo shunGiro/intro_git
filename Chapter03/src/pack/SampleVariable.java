@@ -16,30 +16,8 @@ public class SampleVariable {
 			System.out.println("Negative value");
 		}
 
-		System.out.println("こんにちは");
+		System.out.println("いったん削除");
 
-		System.out.println("追加");
-		System.out.println("追加");
-		System.out.println("追加");
-		
-		System.out.println("fetch 追加");
-		System.out.println("fetch 追加");
-		
-
-		System.out.println("fetch 追加3");
-		System.out.println("fetch 追加4");
-		
-		System.out.println("fetch 追加3");
-		System.out.println("fetch 追加4");
-		
-		System.out.println("ブランチ作成後");
-		
-		System.out.println("ブランチ2作成後");
-		
-		System.out.println("ブランチ3作成後");
-		
-		System.out.println("master1");
-		System.out.println("master2");
 
 	}
 }
