@@ -15,17 +15,5 @@ public class SampleVariable {
 		}else{
 			System.out.println("Negative value");
 		}
-
-		System.out.println("いったん削除");
-
-
-
-		System.out.println("ブランチ0328での作業");
-		
-		
-		
-		//ブランチ
-
-
 	}
 }
