@@ -23,5 +23,9 @@ public class SampleVariable {
 		
 		String data4 = "ブランチ作成";	// 実数型変数の宣言
 		System.out.println(data4);
+		
+		
+		String data6 = "リセット後";
+		System.out.println(data6);
 	}
 }
