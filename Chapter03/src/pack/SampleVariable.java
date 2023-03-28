@@ -15,5 +15,9 @@ public class SampleVariable {
 		}else{
 			System.out.println("Negative value");
 		}
+		
+		
+		String data3 = "ブランチ作成";	// 実数型変数の宣言
+		System.out.println(data3);
 	}
 }
