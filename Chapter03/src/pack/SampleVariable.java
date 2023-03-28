@@ -19,7 +19,9 @@ public class SampleVariable {
 		System.out.println("いったん削除");
 
 
-		System.out.println("ブランチ0328での作業");
+
+		
+		
 
 	}
 }
