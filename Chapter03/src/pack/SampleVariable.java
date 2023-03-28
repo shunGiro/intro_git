@@ -20,8 +20,12 @@ public class SampleVariable {
 
 
 
+		System.out.println("ブランチ0328での作業");
 		
 		
+		
+		//ブランチ
+
 
 	}
 }
