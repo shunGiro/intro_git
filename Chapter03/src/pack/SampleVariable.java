@@ -26,6 +26,7 @@ public class SampleVariable {
 		System.out.println(data4);
 
 
+
 		System.out.println("いったん削除");
 
 
@@ -35,6 +36,10 @@ public class SampleVariable {
 		
 		
 		//ブランチ
+
+		
+		String data5 = "ブランチ作成";	// 削除予定
+		System.out.println(data5);
 
 	}
 }
