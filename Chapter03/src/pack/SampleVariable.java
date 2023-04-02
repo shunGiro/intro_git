@@ -11,6 +11,7 @@ public class SampleVariable {
 		func3();
 		func5();
 	}
+	
 
 	public static void func1() {
 		System.out.println("func1");
