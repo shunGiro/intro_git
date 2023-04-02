@@ -7,9 +7,14 @@ public class SampleVariable {
 
 
 		func1();
+		func2();
 	}
 
 	public static void func1() {
+		System.out.println("func1");
+	}
+
+	public static void func2() {
 		System.out.println("func1");
 	}
 }
