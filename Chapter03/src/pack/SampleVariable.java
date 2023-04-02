@@ -12,6 +12,7 @@ public class SampleVariable {
 		func5();
 	}
 
+	//コメント追加
 	public static void func1() {
 		System.out.println("func1");
 	}
