@@ -41,13 +41,5 @@ public class SampleVariable {
 		String data5 = "ブランチ作成";	// 削除予定
 		System.out.println(data5);
 
-		System.out.println(message());
-	}
-
-	/**
-	 * @return
-	 */
-	static String message() {
-		return "いったん全削除後に追加:こんにちわ";
 	}
 }
