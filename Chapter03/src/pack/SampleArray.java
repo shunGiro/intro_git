@@ -13,6 +13,7 @@ public class SampleArray {
 		data2[1] = 3.4;
 		data2[2] = 5.6;
 
+		
 		for(int i = 0; i < data1.length; i++){
 			System.out.println(data1[i]);
 		}

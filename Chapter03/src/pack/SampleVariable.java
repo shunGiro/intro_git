@@ -11,6 +11,7 @@ public class SampleVariable {
 		func3();
 		func5();
 	}
+	
 
 	//コメント追加1
 	public static void func1() {
